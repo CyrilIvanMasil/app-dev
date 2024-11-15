@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 # No Country for Old Men
-## Overview
+**Overview**
 No Country for Old Men is a neo-Western crime thriller film directed by Joel and Ethan Coen. It was released in 2007 and is based on the novel by Cormac McCarthy. The film won multiple Academy Awards, including Best Picture.
 
 ## Plot Summary
@@ -19,11 +19,11 @@ Set in the desolate landscapes of West Texas, the story follows Llewelyn Moss, a
 3. Philosophical Themes: The movie dives deep into questions about fate, morality, and the nature of evil.
    
 ## Memorable Quotes
-"What's the most you ever lost on a coin toss?"
-— Anton Chigurh
+> "What's the most you ever lost on a coin toss?"
+*Anton Chigurh*
 
-"You can't stop what's coming. It ain't all waiting on you. That's vanity."
-— Ed Tom Bell
+> "You can't stop what's coming. It ain't all waiting on you. That's vanity."
+*Ed Tom Bell*
 
 Fun Facts
 Javier Bardem won the Oscar for Best Supporting Actor for his portrayal of Anton Chigurh.
